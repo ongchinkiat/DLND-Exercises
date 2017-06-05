@@ -1,7 +1,7 @@
 # DLND-Exercises
 
 
-## RNN Exercises 1 Anna KaRNNa
+## RNN Exercise 1 Anna KaRNNa
 
 Needs Tensorflow 1.0
 
@@ -15,3 +15,9 @@ floyd run --gpu --env tensorflow-1.0 --mode jupyter
 AWS GPU using Floyd: 25 mins
 
 Quad Core CPU: estimated 7.5 hours
+
+## RNN Exercise 2 Sentiment Analysis with an RNN
+
+Project Notebook: Sentiment_RNN.ipynb
+
+HTML: Sentiment_RNN.html
